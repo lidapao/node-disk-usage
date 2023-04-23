@@ -14,7 +14,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/jduncanator/node-diskusage.git"
+    "url": "https://github.com/lidapao/node-disk-usage.git"
   },
   "keywords": [
     "disk",
@@ -30,7 +30,7 @@
   "author": "jduncanator",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/jduncanator/node-diskusage/issues"
+    "url": "https://github.com/lidapao/node-disk-usage/issues"
   },
-  "homepage": "https://github.com/jduncanator/node-diskusage"
+  "homepage": "https://github.com/lidapao/node-disk-usage"
 }
